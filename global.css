@@ -1,0 +1,25 @@
+nav {
+  ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+}
+
+.big {
+  font-size: x-large;
+}
+
+button.like {
+  margin: 10px;
+}
+
+.border {
+  outline: 5px skyblue solid;
+}
+
+.error {
+  background-color: red;
+  color: yellow;
+}
